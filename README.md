@@ -62,3 +62,11 @@ Additional Programming Questions :
 * Write a program to generate an Ethereum address. (You can use any library in any language) Note: There is no input to your program.
 * Write a program to demonstrate the contract address generation.(You can use any library in any language) Note: Sender’s address and nonce are the input for your program.Submit your code with some hard coded inputs.
 * Create a program to demonstrate transaction signing and verification in Ethereum.(You can use any library in any language) Note: Input to your signing function are a transaction (an object having fields like receiver's address, ether to be sent, sender’s nonce, gas price, etc..) and a private key of the sender and this function should return a signed transaction. Input to your verification function are the signed transaction and sender’s address.
+
+## Week 3: **Solidity**
+
+1. Solidity [documentation](https://docs.soliditylang.org/en/v0.8.28/) : A deep dive into the official Solidity documentation to understand the syntax, features, and best practices for writing smart contracts.
+
+2. Example Codes : Review and explanation of the Solidity code examples discussed during the session, including their purpose and functionality.
+
+3. Assignment 3
