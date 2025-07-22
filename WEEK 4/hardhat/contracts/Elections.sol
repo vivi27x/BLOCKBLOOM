@@ -11,10 +11,6 @@ import "@openzeppelin/contracts/utils/Pausable.sol";
  * Author : Vivek
  */
 
-// =============================================================================
-// BASIC ELECTION CONTRACT (Without ZK Proofs)
-// =============================================================================
-
 contract Gymkhana_elections is Ownable, ReentrancyGuard, Pausable {
     enum ElectionState { SETUP, VOTING, ENDED }
     
